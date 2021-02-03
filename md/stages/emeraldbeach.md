@@ -8,7 +8,7 @@
         </tr>
         <tr>
             <td>Associated Character(s)</td>
-            <td><a href="/?a=characters/sonic">Sonic The Hedgehog</a></td>
+            <td><a href="?a=characters/sonic">Sonic The Hedgehog</a></td>
         </tr>
         <tr>
             <td>Slot</td>
