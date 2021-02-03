@@ -25,9 +25,7 @@
     </table> 
 </p>
 
-Sonic is an all rounder character designed for beginners, with relatively straight forward moves mapped to all buttons and not many special mechanics. On the technical end, Sonic begins the bulk of character related sets of data and is typically the character used to test this data.
-
-## Moveset
+Emerald Beach, much like it's associated character, is a simple map which is square and non-symmetrical map with distinct, stone walls and platforms.
 
 ## Technical Data
 
