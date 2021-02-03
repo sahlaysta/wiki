@@ -7,7 +7,7 @@ const settings = {
         // Article path
         articlepath: "./md/",
         // Path to github repo base
-        githubpath: "https://github.com/sbhax/wiki/blob/master/md/",
+        githubpath: "https://github.com/sbhax/wiki/edit/master/md/",
         // Path to create a new page
         createpath: "https://github.com/sbhax/wiki/new/master/md/",
         // Page if page argument not found
