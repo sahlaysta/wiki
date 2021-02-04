@@ -4,7 +4,7 @@ Pages that describe the storage of data within the game.
 
 ## Graphics
 
-
+**[Palettes](?a=formats/palettes)** - Format of palettes in the game.
 
 ### Compressed
 
