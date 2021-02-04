@@ -53,3 +53,15 @@
 - **[Palettes](?a=formats/palettes)**
 
 *More at the [formats index](?a=formats/index)*.
+
+### Tools
+
+- **[Sonic Battle Hack Suite (SBHS)](?a=tools/sbhs)**
+
+- **[Game Boy Advance Graphics Editor (GBAGE)](?a=tools/gbage)**
+
+- **[HxD](?a=tools/hxd)**
+
+- **[Advanced Palette Editor](?a=tools/ape)**
+
+*More at the [tools index](?a=tools/index)*.
