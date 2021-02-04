@@ -52,14 +52,14 @@ Below is a list of this characters technical data for modders.
 
 | Graphic | Graphic Address | Palette Address | Compressed? | Compressed Index | Tile Width | Tile Height | Notes |
 |--------:|:---------------:|:---------------:|:-----------:|:----------------:|:----------:|:-----------:|:------|
-| Battle Mode Portrait | ``0x118B68`` | ``0x10DD04`` | Yes | 28 | 8 | 10 | See [Battle Portraits](?a=formats/battleportraits).
+| Battle Mode Portrait | ``0x118B68`` | ``0x10DD04`` | Yes | 28 | 8 | 10 | See [Battle Portraits](?a=formats/portraits#battle).
 | Spritesheet | ``0x47AFD8`` | ``0x47AFB8`` | No | | -- | -- | See [Character Sprites](?a=formats/charactersprites).
 | Life Icon | ``0x3251D4`` | ``0x47AFB8`` | No | | 2 | 2 |
 | Lifebar | ``0x322154`` | ``0x47AFB8`` | No | | 8 | 4 |
-| Neutral (Story) | ``0x1AA97C`` | | Yes | 399 | 8 | 18 | See [Story Portraits](?a=formats/storyportraits).
-| Ready (Story) | ``0x1AB020`` | | Yes | 400 | 8 | 18 | See [Story Portraits](?a=formats/storyportraits).
-| Shrug (Story) | ``0x1AB6CC`` | | Yes | 401 | 8 | 18 | See [Story Portraits](?a=formats/storyportraits).
-| Ready (Pointing) (Story) | ``0x1ABD60`` | | Yes | 402 | 8 | 18 | See [Story Portraits](?a=formats/storyportraits).
+| Neutral (Story) | ``0x1AA97C`` | | Yes | 399 | 8 | 18 | See [Story Portraits](?a=formats/portraits#story).
+| Ready (Story) | ``0x1AB020`` | | Yes | 400 | 8 | 18 | See [Story Portraits](?a=formats/portraits#story).
+| Shrug (Story) | ``0x1AB6CC`` | | Yes | 401 | 8 | 18 | See [Story Portraits](?a=formats/portraits#story).
+| Ready (Pointing) (Story) | ``0x1ABD60`` | | Yes | 402 | 8 | 18 | See [Story Portraits](?a=formats/portraits#story).
 | Challenge Mode Portrait | ``0x12034C`` | | Yes | 48 | ? | ? | Unknown format and layout.
 
 ### Animation Data
