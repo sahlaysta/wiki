@@ -4,7 +4,7 @@
     <i>Sonic Battle Modding and Gameplay Wiki</i>
 </p>
 
-<h1 align="center" class="charName">Index</h1>
+<h1 align="center" class="centeredHeader">Index</h1>
 
 <h2 id="characters" align="center">Characters</h2>
 
@@ -39,3 +39,17 @@
     <br>
     <i>Other stages (Alongside modded stages) are listed at <a href="?a=stages/index">the stage index</a>.</i>
 </p>
+
+<h2 id="stages" align="center">Technical</h2>
+
+### Formats
+
+- **[Portraits](?a=formats/portraits)**
+
+- **[Animations](?a=formats/animations)**
+
+- **[Pointers](?a=formats/pointers)**
+
+- **[Palettes](?a=formats/palettes)**
+
+*More at the [formats index](?a=formats/index)*.
