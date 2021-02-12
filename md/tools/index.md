@@ -8,6 +8,8 @@ List of tools that are compatible with the game.
 
 **[Sonic Battle Hack Suite (Rust Rewrite)](?a=tools/sbrx)** - Rewrite of SBHS on rust, has some interesting features but is less common and less stable than SBHS. By Phase.
 
+**[Sonic Battle Text Editor](?a=tools/sonicbattletexteditor)** - Story and other text editor programmed in C# (Formerly Java), unlike SBHS, has storage reallocation. By Porog.
+
 **[Bunnysuit](?a=tools/bunnysuit)** - Command line tool to make editting of pointers and allocation of data at the end of the ROM easier, built with Deno JS, soon to be ported to Python.
 
 ## Game Boy Advance Specific
