@@ -197,3 +197,8 @@ blockquote{
     width: 100%;
     display: block;
 }
+
+img {
+    max-width: min(100%, 512px);
+    max-height: 512px;
+}
