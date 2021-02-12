@@ -4,6 +4,11 @@
     <i>Sonic Battle Modding and Gameplay Wiki</i>
 </p>
 
+<p align="center">
+    <a href="https://gamebanana.com/games/6046"><img src="res/gamebanana.png"></a>
+    <a href="https://discord.gg/psnQwxJXzm"><img src="res/discord.png"></a>
+</p>
+
 <h1 align="center" class="centeredHeader">Index</h1>
 
 <h2 id="characters" align="center">Characters</h2>
